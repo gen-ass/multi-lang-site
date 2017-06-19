@@ -1,18 +1,19 @@
-# Multi-lang Site
+# Multi-Lang Site
 
 Using tabs to create a multipage layout to display various language options. This helps users pick the appropriate language once on the landing page.
 
 ## Purpose
 
-Testing how various languages affects the lauout of a page and what to learn once the text is commited to a site.
+Testing how various languages affects the layout of a page and what to learn once the text is committed to a site.
 
 ### Notes
 
-Each language will format differently depending on sentence length structure
+Each language will format differently depending on sentence structure length
 
 ```
 The Student Enrolment Centre (SEC) is responsible
 ```
+
 ```
 Die Studente-inskrywingsentrum lê data
 ```
